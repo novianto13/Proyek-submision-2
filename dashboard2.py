@@ -270,7 +270,7 @@ st.pyplot(fig)
 
 st.caption('Copyright © Dicoding 2023')
 
-!pip install streamlit
+pip install streamlit
 
 import pandas as pd
 import matplotlib.pyplot as plt
