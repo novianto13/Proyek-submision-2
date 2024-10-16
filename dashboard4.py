@@ -164,4 +164,3 @@ elif option == 'Top cancel product':
     plt.show()
     st.pyplot()
 
-!streamlit run app1.py
